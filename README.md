@@ -35,3 +35,16 @@ Frequency distributions for categorical columns.
 Opportunity status distribution analysis.
 Visualizations: Bar charts, pie charts, and demographic distributions.
 - <a href="https://github.com/Paschal-lee/Learner-Engagement-Analysis-Insights-into-Opportunities-and-Demographics-on-Excelerate/blob/main/Excelerate_EDA%20_report.pdf">EDA Report</a>
+
+### Advanced Analysis:
+Correlation between rewards and skill points earned.
+Distribution analysis by demographic variables (e.g., gender, country, student status).
+Investigation into the impact of social media on user engagement.
+- <a href="https://github.com/Paschal-lee/Learners-Engagement-Analysis-Insights-into-Opportunities-and-Demographics-on-Excelerate/blob/main/Excelerate_Trend_and_Comparative_Analysis.pdf">Trend and Comparative Analysis</a>
+
+
+## Insights
+### Opportunity Sign Up and Status Trends:
+70% of learners progressed to the "Team Allocated" stage.
+Only 12.6% reached "Rewards Awarded," while 6.5% dropped out or were rejected.
+### Demographic Patterns:
