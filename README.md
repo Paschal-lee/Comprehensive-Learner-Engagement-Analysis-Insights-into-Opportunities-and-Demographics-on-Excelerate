@@ -48,3 +48,14 @@ Investigation into the impact of social media on user engagement.
 70% of learners progressed to the "Team Allocated" stage.
 Only 12.6% reached "Rewards Awarded," while 6.5% dropped out or were rejected.
 ### Demographic Patterns:
+Male learners dominate engagement (12,239), with female learners also strongly represented (8,004).
+India leads participation (9,132 learners), followed by the US and Nigeria.
+### Rewards and Skill Points:
+Both metrics show highly skewed distributions, with the majority earning low or no values.
+A few high performers earn disproportionately large rewards and skill points.
+### Social Media Influence:
+Learners from social media are slightly higher (13,811) than those who are not (13,742), indicating social platforms' significance in user acquisition.
+### Education Levels:
+Graduate students (46%) form the majority, followed by undergraduate students (34%).
+High school students and those not in education make up smaller percentages, suggesting the platform's focus on higher education.
+- <a href="https://github.com/Paschal-lee/Learners-Engagement-Analysis-Insights-into-Opportunities-and-Demographics-on-Excelerate/blob/main/Excelerate%20Dashboard.png">Dashboard</a>
