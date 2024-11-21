@@ -59,3 +59,12 @@ Learners from social media are slightly higher (13,811) than those who are not (
 Graduate students (46%) form the majority, followed by undergraduate students (34%).
 High school students and those not in education make up smaller percentages, suggesting the platform's focus on higher education.
 - <a href="https://github.com/Paschal-lee/Learners-Engagement-Analysis-Insights-into-Opportunities-and-Demographics-on-Excelerate/blob/main/Excelerate%20Dashboard.png">Dashboard</a>
+
+## Conclusion
+The analysis highlights key engagement trends, demographic influences, and performance disparities among learners on Excelerate.
+Key findings include:
+High team allocation rates indicate strong initial engagement, but completion rates lag behind.
+Skewed reward and skill point distributions suggest unequal performance across learners.
+Demographic analysis reveals disparities in participation and outcomes by gender, country, and student status.
+Social media emerges as a critical tool for learner acquisition, with balanced representation from its users.
+- <a href="https://github.com/Paschal-lee/Learners-Engagement-Analysis-Insights-into-Opportunities-and-Demographics-on-Excelerate/blob/main/Excelerate%20Presentatation%20Slide.pptx">Presentation Slides</a>
