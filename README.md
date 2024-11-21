@@ -1,4 +1,4 @@
-# Comprehensive-Learner-Engagement-Analysis-Insights-into-Opportunities-and-Demographics-on-Excelerate
+# Learner-Engagement-Analysis-Insights-into-Opportunities-and-Demographics-on-Excelerate
 
 Project Description
 This project examines learner engagement with opportunities on Excelerate through a combination of exploratory data analysis (EDA) and demographic evaluations. The aim is to uncover patterns in sign-ups, completion rates, and learner characteristics, offering actionable insights for improving platform engagement and user success. The analysis also explores the relationship between demographic variables, learner progression, and performance outcomes.
